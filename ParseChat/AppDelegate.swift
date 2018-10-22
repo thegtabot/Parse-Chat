@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  ParseChat
-//
-//  Created by Avishek Thapa Magar on 10/4/18.
-//  Copyright © 2018 Avishek Thapa Magar. All rights reserved.
-//
+
 
 import UIKit
 import Parse
